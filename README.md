@@ -7,7 +7,7 @@
 
 # 🌍 Welcome to My World  
 
-### 👨‍💻 **Onkar Satale**
+### 👨‍💻 **Gayatri Satale**
 > Full Stack Developer | GenAI Developer | Problem Solver  
 
 <p align="center">
