@@ -36,7 +36,7 @@
 
 ### 🎨 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react." />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ---
