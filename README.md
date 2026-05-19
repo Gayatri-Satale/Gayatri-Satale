@@ -11,7 +11,6 @@
 > Data Analyst | GenAI Developer | Problem Solver  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/GenAI%20Builder-0D1117?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/DSA%20Focused-0D1117?style=for-the-badge&logo=leetcode" />
 </p>
@@ -22,7 +21,7 @@
 
 - 🚀 Engineering scalable **Frontend applications**  
 - 🤖 Creating **AI-powered tools using OpenAI & LangChain**  
-- 🧠 Strengthening **Data Structures & Algorithms (C++)**  
+- 🧠 Strengthening **Data Structures & Algorithms (Python)**  
 
 ---
 
@@ -60,7 +59,7 @@
 
 ### 🗄️ Data Management
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
