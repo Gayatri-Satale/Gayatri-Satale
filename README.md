@@ -36,7 +36,7 @@
 
 ### 🎨 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,ts,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react." />
 </p>
 
 ---
@@ -124,7 +124,7 @@ Full-stack API testing platform with an AI-powered debugging assistant for resol
 ## 📊 Development Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Onkar-Satale&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Gayatri-Satale&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -132,7 +132,7 @@ Full-stack API testing platform with an AI-powered debugging assistant for resol
 ## 📈 Growth Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-Satale&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayatri-Satale&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ---
