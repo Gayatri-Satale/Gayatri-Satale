@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=39FF14&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Onkar+Satale;Full+Stack+Developer+%7C+GenAI+Builder;MERN+%7C+Node.js+%7C+Python+%7C+FastAPI;Turning+Ideas+into+Real+World+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=39FF14&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Gayatri+Satale;Full+Stack+Developer+%7C+GenAI+Builder;MERN+%7C+Node.js+%7C+Python+%7C+FastAPI;Turning+Ideas+into+Real+World+Apps+🚀" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 # 🌍 Welcome to My World  
 
 ### 👨‍💻 **Gayatri Satale**
-> Full Stack Developer | GenAI Developer | Problem Solver  
+> Data Analyst | GenAI Developer | Problem Solver  
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-0D1117?style=for-the-badge&logo=react" />
@@ -20,7 +20,7 @@
 
 ## 🚧 Current Focus Zone
 
-- 🚀 Engineering scalable **Full Stack (MERN) applications**  
+- 🚀 Engineering scalable **Frontend applications**  
 - 🤖 Creating **AI-powered tools using OpenAI & LangChain**  
 - 🧠 Strengthening **Data Structures & Algorithms (C++)**  
 
@@ -29,7 +29,6 @@
 ## 🌐 Collaboration Arena
 
 - 🔹 AI + GenAI based applications  
-- 🔹 Modern Full Stack Web Apps  
 - 🔹 Open Source Contributions  
 
 ---
@@ -39,13 +38,6 @@
 ### 🎨 Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,ts,angular" />
-</p>
-
----
-
-### ⚙️ Backend Engineering
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
 
 ---
@@ -75,15 +67,7 @@
 
 ### 🧰 Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase" />
-</p>
-
----
-
-### 🚀 Deployment Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render" />  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,Excel" />
 </p>
 
 ---
@@ -107,7 +91,7 @@ AI-powered platform that generates smart packing lists based on destination, wea
   <a href="https://packmatefrontend.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/Onkar-Satale/Packmate">
+  <a href="https://github.com/Gayatri-Satale/Packmate">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -131,30 +115,7 @@ Full-stack API testing platform with an AI-powered debugging assistant for resol
   <a href="https://swift-api-iota.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/Onkar-Satale/Swift_API_mern">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 🔹 Academic Engagement Portal  
-**Full Stack Web App | Jan 2024 – May 2024**
-
-Centralized platform for managing academic users, courses, and communication.
-
-**🔧 Tech:** React, Node.js, Express, SQL  
-
-**✨ Highlights:**
-- 🏫 Academic management system  
-- 🔗 Relational database design  
-- 🔐 Scalable backend  
-
-<p>
-  <a href="https://academic-engagement-portal-q9rw.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-0D1117?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/Onkar-Satale/Academic-Engagement-Portal">
+  <a href="https://github.com/Gayatri-Satale/SwiftAPI">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -189,11 +150,11 @@ Centralized platform for managing academic users, courses, and communication.
 
 <p align="left">
   
-  <a href="https://www.linkedin.com/in/satale-onkar-7332b0220/" target="_blank">
+  <a href="linkedin.com/in/gayatri-satale-833923386" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48px" title="LinkedIn"/>
   </a>
   
-  <a href="mailto:onkarsatale4@gmail.com">
+  <a href="mailto:satalegayatri27@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48px" title="Gmail"/>
     
  <a href="https://portfolio-mu-one-n3zkisj3jp.vercel.app/" target="_blank">
