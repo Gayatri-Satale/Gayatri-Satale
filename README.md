@@ -153,8 +153,9 @@ Full-stack API testing platform with an AI-powered debugging assistant for resol
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
   
-  <a href="mailto:satalegayatri27@gmail.com">
+ <a href="mailto:satalegayatri27@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48px" title="Gmail"/>
+</a>
     
  <a href="https://portfolio-mu-one-n3zkisj3jp.vercel.app/" target="_blank">
   <img src="https://raw.githubusercontent.com/Onkar-Satale/Onkar-Satale/main/logo.jpeg"
