@@ -149,9 +149,9 @@ Full-stack API testing platform with an AI-powered debugging assistant for resol
 
 <p align="left">
   
-  <a href="linkedin.com/in/gayatri-satale-833923386" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" title="LinkedIn"/>
-  </a>
+ <a href="https://www.linkedin.com/in/gayatri-satale-833923386/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
   
   <a href="mailto:satalegayatri27@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48px" title="Gmail"/>
