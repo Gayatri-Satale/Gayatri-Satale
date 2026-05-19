@@ -132,7 +132,10 @@ Full-stack API testing platform with an AI-powered debugging assistant for resol
 ## 📈 Growth Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayatri-Satale&theme=github-dark&hide_border=true&area=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Gayatri-Satale&theme=github-dark&hide_border=true&area=true" 
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
