@@ -66,7 +66,7 @@
 
 ### 🧰 Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,Excel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,excel" />
 </p>
 
 ---
