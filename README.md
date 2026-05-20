@@ -66,7 +66,8 @@
 
 ### 🧰 Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,excel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
